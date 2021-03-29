@@ -38,6 +38,7 @@
     margin-top: 100px;
     margin-bottom: 100px;
 }
+
 h1{
     color: #272D4E;
     font-weight: bold;
@@ -45,7 +46,7 @@ h1{
 }
 .card-text{
     color:#94A2B3;
-    font-size: 8pt;
+    font-size: 10pt;
 }
 
 .s1-btn{
@@ -53,19 +54,45 @@ h1{
     border: none;
 }
 
+.card-body{
+    padding: 0px 75px 0px 75px;
+}
+
+.card-link{
+    color: #299EF3;
+    text-decoration: none;
+}
 
 /* section 2 */
+.section-2{
+  
+  
+   
 
+   
+}
+.card-title{
+    color: #272D4E;
+    font-weight: bold;
+}
 
+.link-1{
+    
+        color: #299EF3;
+        text-decoration: none;
 
+}
 
 
 /* section 3 */
 
 .section-3{
     background-color: #7854F7;
-    
+  
+
+  
 }
+
 /* section 4 */
 
 .section-4{
