@@ -1,5 +1,7 @@
 
-
+h1,h2,h3,h4,h5,h6{
+    color: #272D4E;
+}
 .navbar-nav{
     margin-left: 100px;
 }
@@ -99,10 +101,15 @@ h1{
 /* section 4 */
 
 .section-4{
-    background-color: white;
-    height: 50vh;
-    
+    background: linear-gradient( #ecf0fd00, #ecf0fd79, #ECF0FD,#ecf0fd79, #ecf0fd00);
+    padding: 10vh 0 10vh 0;
+   
 }
+
+.carousel-control-next-icon{
+   color: brown;
+}
+
 /* section 5 */
 /* section 6 */
 

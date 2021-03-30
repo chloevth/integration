@@ -85,6 +85,7 @@
 <section class="section-2 ">
 
 <div class="container">
+  <h2>Your eCommerce made simple</h2>
   <div class="row">
 
     <div class="col-sm d-flex justify-content-center">
@@ -180,9 +181,11 @@
             <div class="col-md-8">
 
               <div class="card-body ">
-                <h5 class="card-title text-white">Card title</h5>
-                <p class="card-text text-white">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <h5 class="card-title text-white">Know our Global Community</h5>
+                <p class="card-text text-white">WooCommerce is one of the fastest-growing eCommerce communities. We’re proud that the helpfulness of the community and a wealth of online resources are frequently cited as reasons our users love it. There are 80+ meetups worldwide!</p>
                 <p class="card-text"><small class="text-white">Last updated 3 mins ago</small></p>
+                
+              <button type="button" class="btn s3-btn btn-primary rounded-pill fw-bold border-0">Read the  Documentation</button>
               </div>
 
             </div>
@@ -212,7 +215,58 @@
 
 
 <section class="section-4">
+ <div class="container">
 
+
+ <div class="row">
+   <div class="col-md-12 d-flex justify-content-center">
+   <h2>Trusted by Agencies & Store Owners</h2>
+   </div>
+ 
+ </div>
+
+
+   <div class="row">
+
+     <div class="col-md-4 d-flex justify-content-center ">
+      
+     </div>
+
+     <div class="col-md-4 d-flex my-5 justify-content-center ">
+  
+      
+
+       <div id="carouselExampleControls" class="carousel slide shadow" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="ui-kit/caroussel.png" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="ui-kit/caroussel.png" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="ui-kit/caroussel.png" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+
+     </div>
+
+     <div class="col-md-4 d-flex justify-content-center">
+     
+     </div>
+
+   </div>
+ </div>
 
 
 
@@ -225,12 +279,13 @@
 
 
 
-<section class="section-5">
+<section class="section-5 mt-5">
   <div class="container">
     <div class="row">
-      <h2>Supported by real people</h2>
-      <p>Our team of Happiness Engineers works remotely from 58 countries providing customer support across multiple time zones.</p>
-      <img src="ui-kit/team.png" alt="" srcset="">
+      <h2 class="text-center">Supported by real people</h2>
+      <p class="text-center">Our team of Happiness Engineers works remotely from 58 countries providing customer support across multiple time zones.</p>
+        <img src="ui-kit/team.png" alt="" srcset="">
+      
     </div>
 
   </div>
