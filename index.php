@@ -91,7 +91,7 @@
       <div class="card border-0" style="width: 18rem;">
   <img src="ui-kit/card-1.png" class="card-img-top shadow" alt="...">
   <div class="card-body px-0 mt-5">
-    <h5 class="card-title">All you need to start</h5>
+    <h5 class="card-title fw-bold">All you need to start</h5>
     <p class="card-text">Add WooCommerce plugin to any WordPress site and set up a new store in minutes.</p>
     <a href="#" class="link-1 fw-bold" >Ecommerce for Wordpress ›</a>
   </div>
@@ -102,7 +102,7 @@
       <div class="card border-0" style="width: 18rem;">
   <img src="ui-kit/card-2.png" class="card-img-top shadow" alt="...">
   <div class="card-body px-0 mt-5">
-    <h5 class="card-title">Customize and extend</h5>
+    <h5 class="card-title fw-bold">Customize and extend</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
     <a href="#" class="link-1 fw-bold">Browse Extensions ›</a>
   </div>
@@ -113,7 +113,7 @@
       <div class="card border-0" style="width: 18rem;">
   <img src="ui-kit/card-3.png" class="card-img-top shadow" alt="...">
   <div class="card-body px-0 mt-5">
-    <h5 class="card-title">Active Community</h5>
+    <h5 class="card-title fw-bold">Active Community</h5>
     <p class="card-text">WooCommerce is one of the fastest-growing eCommerce communities.</p>
     <a href="#" class="link-1 fw-bold">Check our Forums ›</a>
   </div>
@@ -129,28 +129,40 @@
 
 <!-- fin section 2 -->
 
+
+<!-- section 3 -->
 <section class="section-3">
   <div class="container">
 
+
     <div class="row d-flex">
 
-       <div class="col-12 d-flex justify-content-center align-items-center">
-       <div class="card mb-5 mt-5" style="max-width: 540px;">
-  <div class="row g-0">
-    <div class="col-md-4">
-      <img src="..." alt="...">
-    </div>
-    <div class="col-md-8">
-      <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      <div class="col-12 d-flex justify-content-center align-items-center">
+       
+       <div class="card mb-5 mt-5 bg-transparent border-0" style="max-width: 540px;">
+        
+        <div class="row g-0">
+
+          <div class="col-md-4">
+            <img src="ui-kit/card-4.png" class="img-section-3" alt="...">
+          </div>
+
+          <div class="col-md-8">
+
+           <div class="card-body">
+             <h5 class="card-title text-white">Develop Without Limits</h5>
+              <p class="card-text text-white">WooCommerce is developer friendly, too. Built with a REST API, WooCommerce is scalable and can integrate with virtually any service. Design a complex store from scratch, extend a store for a client, or simply add a single product to a WordPress site—your store, your way.</p>
+          
+              <button type="button" class="btn s3-btn btn-primary rounded-pill fw-bold border-0">Read the  Documentation</button>
+            </div>
+
+          </div>
+
+        </div>
+
       </div>
-    </div>
-  </div>
-</div>
-       </div>
 
+      
     </div>
 
 
@@ -158,33 +170,44 @@
 
     <div class="row d-flex">
 
-<div class="col-12 d-flex justify-content-center align-items-center">
-<div class="card mb-5 mt-5" style="max-width: 540px;">
-<div class="row g-0">
-<div class="col-md-4">
-<img src="..." alt="...">
-</div>
-<div class="col-md-8">
-<div class="card-body">
- <h5 class="card-title">Card title</h5>
- <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-</div>
-</div>
-</div>
-</div>
-</div>
+      <div class="col-12 d-flex justify-content-center align-items-center">
 
-</div>
+        <div class="card mb-5 mt-5 bg-transparent border-0" style="max-width: 540px;">
+
+          <div class="row g-0">
 
 
+            <div class="col-md-8">
+
+              <div class="card-body ">
+                <h5 class="card-title text-white">Card title</h5>
+                <p class="card-text text-white">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <p class="card-text"><small class="text-white">Last updated 3 mins ago</small></p>
+              </div>
+
+            </div>
+
+            <div class="col-md-4">
+              <img src="ui-kit/card-5.png" class="img-section-3" alt="...">
+            </div>
+
+            
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
 
 
-    
 
 
   </div>
 </section>
+
+<!-- fin section 3 -->
 
 
 

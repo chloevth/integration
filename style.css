@@ -64,16 +64,10 @@ h1{
 }
 
 /* section 2 */
-.section-2{
-  
-  
-   
 
-   
-}
 .card-title{
     color: #272D4E;
-    font-weight: bold;
+    
 }
 
 .link-1{
@@ -87,11 +81,20 @@ h1{
 /* section 3 */
 
 .section-3{
-    background-color: #7854F7;
-  
-
-  
+    background:  url(ui-kit/bg.png) no-repeat;
+    background-size: 100% 100%;
 }
+.img-section-3{
+    width: 100%;
+}
+
+.s3-btn{
+    
+    background-color:#70C217;
+    font-size: 10pt;
+
+}
+
 
 /* section 4 */
 
