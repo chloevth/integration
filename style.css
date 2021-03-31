@@ -1,16 +1,27 @@
 
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+
 h1,h2,h3,h4,h5,h6{
     color: #272D4E;
 }
+p{
+    color: #94A2B3;
+}
+
+a{
+    color: #299EF3;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+/*nav*/
 .navbar-nav{
     margin-left: 100px;
 }
 
 #log{
     color: #272D4E;
-    margin-right: 30px;
-    text-decoration: none;
-    font-weight: bolder;
 }
 
 .bi-search{
@@ -41,11 +52,6 @@ h1,h2,h3,h4,h5,h6{
     margin-bottom: 100px;
 }
 
-h1{
-    color: #272D4E;
-    font-weight: bold;
-   
-}
 .card-text{
     color:#94A2B3;
     font-size: 10pt;
@@ -72,14 +78,6 @@ h1{
     
 }
 
-.link-1{
-    
-        color: #299EF3;
-        text-decoration: none;
-
-}
-
-
 /* section 3 */
 
 .section-3{
@@ -87,9 +85,14 @@ h1{
     background-size: 100% 100%;
 }
 .img-section-3{
-    width: 100%;
+    width: 60%;
 }
-
+.title-section-3{
+    color: white;
+}
+.text-section-3{
+    color: white;
+}
 .s3-btn{
     
     background-color:#70C217;
@@ -111,6 +114,10 @@ h1{
 }
 
 /* section 5 */
+
+
+
+
 /* section 6 */
 
 .section-6{
@@ -127,4 +134,34 @@ h1{
 .cta-btn:hover{
     background-color: white;
     color: #5F37EF;
+}
+
+
+
+/* section 7*/
+
+.section-7{
+    background-color: #7854F7;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    
+    
+}
+
+
+/* footer */
+footer{
+    background-color: #7854F7;
+}
+
+.groupe{
+    color: white;
+}
+
+.liste{
+    list-style-type: none;
+}
+
+.lien{
+    color: white;
 }

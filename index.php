@@ -35,11 +35,11 @@
         </li>
       
       </ul>
-      <a href="#" id="log">Log In</a>
+      <a href="#" id="log" class="fw-bolder text-decoration-none mx-4">Log In</a>
       <form class="d-flex">
         <button class="btn btn-outline-success " id="search-btn" type="submit">Get Started</button>
       </form>
-      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" class="bi bi-search " viewBox="0 0 16 16">
   <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
       </svg>
     </div>
@@ -56,7 +56,7 @@
     <div class="col-sm">
       <div class="card mx-auto bg-transparent border-0" >
         <div class="card-body">
-          <h1 class="card-title">Building exactly the eCommerce website you want.</h1>
+          <h1 class="card-title fw-bold">Building exactly the eCommerce website you want.</h1>
          
           <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
           <button type="button" class="s1-btn btn btn-primary rounded-pill px-4 py-2 fw-bold">Start a New Store</button>
@@ -85,7 +85,7 @@
 <section class="section-2 ">
 
 <div class="container">
-  <h2>Your eCommerce made simple</h2>
+  <h2 class="d-flex justify-content-center">Your eCommerce made simple</h2>
   <div class="row">
 
     <div class="col-sm d-flex justify-content-center">
@@ -135,8 +135,50 @@
 <section class="section-3">
   <div class="container">
 
+    <div class="row my-5">
 
-    <div class="row d-flex">
+      <div class="col-md-2 col-sm-0"></div>
+      
+      <div class="col-md-4 col-sm-2 d-flex justify-content-center px-0">
+        <img src="ui-kit/card-4.png" class="img-section-3 shadow" alt="" srcset="">
+      </div>
+      
+      <div class="card-body col-md-4 col-sm-2 px-1 my-5">
+        <h3 class="title-section-3">Develop Without Limits</h3>
+        <p class="fw-light fw-normal text-section-3">WooCommerce is developer friendly, too. Built with a REST API, WooCommerce is scalable and can integrate with virtually any service. Design a complex store from scratch, extend a store for a client, or simply add a single product to a WordPress site—your store, your way.
+        </p>
+        <button type="button" class="btn s3-btn btn-primary rounded-pill fw-bold border-0">Read the  Documentation</button>
+      </div>
+
+      <div class="col-md-2 col-sm-0"></div>
+    
+    </div>
+
+
+    
+    <div class="row my-5">
+
+      <div class="col-md-2 col-sm-0"></div>
+      
+      <div class="card-body col-md-4 col-sm-2 px-1 my-5">
+        <h3 class="title-section-3">Know Your Global Community</h3>
+        <p class="fw-light fw-normal text-section-3">WooCommerce is one of the fastest-growing eCommerce communities. We’re proud that the helpfulness of the community and a wealth of online resources are frequently cited as reasons our users love it. There are 80+ meetups worldwide!
+        </p>
+        <button type="button" class="btn s3-btn btn-primary rounded-pill fw-bold border-0">Read the  Documentation</button>
+      </div>
+
+      <div class="col-md-4 col-sm-2 d-flex justify-content-center px-0">
+        <img src="ui-kit/card-4.png" class="img-section-3 shadow" alt="" srcset="">
+      </div>
+
+      <div class="col-md-2 col-sm-0"></div>
+    
+    </div>
+
+
+
+<!-- 
+    <div class="row">
 
       <div class="col-12 d-flex justify-content-center align-items-center">
        
@@ -204,7 +246,7 @@
 
     </div>
 
-
+-->
 
 
   </div>
@@ -296,13 +338,62 @@
 <section class="section-6 text-white">
   <div class="container h-100">
     <div class="row align-items-center h-100 justify-content-center ">
-      <p class="col-md-8">WooCommerce - <strong>the most customizable eCommerce platform </strong> for building <strong>your online business.</strong></p>
+      <p class="col-md-8 text-white">WooCommerce - <strong>the most customizable eCommerce platform </strong> for building <strong>your online business.</strong></p>
       <button type="button" class="cta-btn btn btn-primary col-6 col-md-2 rounded-pill border-white border-2">Get Started</button>
     </div>
   </div>
 </section>
 
 
+<!-- section 7-->
+
+<section class="section-7 border-bottom border-white ">
+  <div class="container ">
+   
+
+  <div class="row row-cols-1 row-cols-md-3 g-4">
+    <div class="col">
+      <div class="card border-0 bg-transparent">
+       
+        <div class="card-body">
+          <h6 class="card-title text-center text-white fw-normal">30 day <strong>money back guarantee</strong></h6>
+         
+        </div>
+      </div>
+    </div>
+
+    <div class="col">
+      <div class="card border-0 bg-transparent">
+       
+        <div class="card-body">
+          <h6 class="card-title text-center text-white fw-normal"><strong>Support </strong>teams across the world</h6>
+         
+        </div>
+      </div>
+    </div>
+
+
+    <div class="col">
+      <div class="card border-0 bg-transparent">
+       
+        <div class="card-body">
+          <h6 class="card-title text-center text-white fw-normal"><strong>Safe & Secure</strong> online payment</h6>
+          
+        </div>
+      </div>
+    </div>
+   
+  </div>
+
+
+
+
+    <div class="row">
+      <img src="" alt="" srcset="">
+    </div>
+
+  </div>
+</section>
 
 
 

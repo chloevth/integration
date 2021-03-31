@@ -6,7 +6,7 @@
     <div class="container">
         <div class="row">
 
-            <div class="col-sm text-decoration-none">
+            <div class="col-sm">
                 <ul>WHO WE ARE
                     <li><a href="">About</a></li>
                     <li><a href="">Team</a></li>
@@ -19,30 +19,30 @@
 
         <div class="col-sm">
                 <ul>WOOCOMMERCE
-                    <li><a href="">Features</a></li>
-                    <li><a href="">Payments</a></li>
-                    <li><a href="">Marketing</a></li>
-                    <li><a href="">Shipping</a></li>
-                    <li><a href="">Extension Store</a></li>
-                    <li><a href="">eCommerce blog</a></li>
-                    <li><a href="">Development blog</a></li>
-                    <li><a href="">Ideas board</a></li>
-                    <li><a href="">Mobile App</a></li>
-                    <li><a href="">Trademark Guidelines</a></li>
-                    <li><a href="">Community</a></li>
-                    <li><a href="">Email Newsletter</a></li>
+                    <li class="liste"><a href="">Features</a></li>
+                    <li class="liste"><a href="">Payments</a></li>
+                    <li class="liste"><a href="">Marketing</a></li>
+                    <li class="liste"><a href="">Shipping</a></li>
+                    <li class="liste"><a href="">Extension Store</a></li>
+                    <li class="liste"><a href="">eCommerce blog</a></li>
+                    <li class="liste"><a href="">Development blog</a></li>
+                    <li class="liste"><a href="">Ideas board</a></li>
+                    <li class="liste"><a href="">Mobile App</a></li>
+                    <li class="liste"><a href="">Trademark Guidelines</a></li>
+                    <li class="liste"><a href="">Community</a></li>
+                    <li class="liste"><a href="">Email Newsletter</a></li>
                 </ul>
         </div>
 
 
 
         <div class="col-sm">
-                 <ul>OTHER PRODUCTS
+                 <ul class="groupe">OTHER PRODUCTS
 
-                    <li><a href="">Storefront</a></li>
-                    <li><a href="">WooSlider</a></li>
-                    <li><a href="">Sensei</a></li>
-                    <li><a href="">Sensei Extensions</a></li>
+                    <li class="liste"><a class="lien" href="">Storefront</a></li>
+                    <li class="liste"><a class="lien" href="">WooSlider</a></li>
+                    <li class="liste"><a class="lien" href="">Sensei</a></li>
+                    <li class="liste"><a class="lien" href="">Sensei Extensions</a></li>
                 
                 </ul>
         </div>
