@@ -335,6 +335,8 @@
 
 </section>
 
+<!-- section 6-->
+
 <section class="section-6 text-white">
   <div class="container h-100">
     <div class="row align-items-center h-100 justify-content-center ">
@@ -347,7 +349,7 @@
 
 <!-- section 7-->
 
-<section class="section-7 border-bottom border-white ">
+<section class="section-7 ">
   <div class="container ">
    
 
@@ -355,8 +357,9 @@
     <div class="col">
       <div class="card border-0 bg-transparent">
        
-        <div class="card-body">
-          <h6 class="card-title text-center text-white fw-normal">30 day <strong>money back guarantee</strong></h6>
+        <div class="card-body px-0">
+       
+          <h6 class="card-title text-center text-white fw-normal"> <img src="ui-kit/check.png" class="check px-2" alt="" srcset="">30 day <strong>money back guarantee</strong></h6>
          
         </div>
       </div>
@@ -365,8 +368,9 @@
     <div class="col">
       <div class="card border-0 bg-transparent">
        
-        <div class="card-body">
-          <h6 class="card-title text-center text-white fw-normal"><strong>Support </strong>teams across the world</h6>
+        <div class="card-body px-0">
+        
+          <h6 class="card-title text-center text-white fw-normal"><img src="ui-kit/bouee.png" class="check px-2" alt="" srcset=""><strong>Support </strong>teams across the world</h6>
          
         </div>
       </div>
@@ -376,8 +380,9 @@
     <div class="col">
       <div class="card border-0 bg-transparent">
        
-        <div class="card-body">
-          <h6 class="card-title text-center text-white fw-normal"><strong>Safe & Secure</strong> online payment</h6>
+        <div class="card-body pt-0 pb-5">
+        
+          <h6 class="card-title text-center text-white fw-normal"><img src="ui-kit/cadenas.png" class="check px-2" alt="" srcset=""><strong>Safe & Secure</strong> online payment</h6>
           
         </div>
       </div>
@@ -389,7 +394,11 @@
 
 
     <div class="row">
-      <img src="" alt="" srcset="">
+      <div class="col-md-4"></div>
+      <div class="col-md-4 d-flex justify-content-center pt-5">
+      <img src="ui-kit/logo-blanc.png" alt="" srcset="">
+      </div>
+      <div class="col-md-4"></div>
     </div>
 
   </div>

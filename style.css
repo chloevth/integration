@@ -142,12 +142,14 @@ a{
 
 .section-7{
     background-color: #7854F7;
-    padding-top: 8%;
-    padding-bottom: 8%;
+    padding-top: 5%;
+    padding-bottom: 5%;
     
     
 }
+.check{
 
+}
 
 /* footer */
 footer{
@@ -156,12 +158,18 @@ footer{
 
 .groupe{
     color: white;
+   
 }
 
 .liste{
     list-style-type: none;
+ 
 }
 
 .lien{
     color: white;
+} 
+
+.lien-footer{
+    color: #94A2B3;
 }
