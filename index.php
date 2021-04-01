@@ -82,7 +82,7 @@
 
 <!-- début section 2 -->
 
-<section class="section-2 my-5">
+<section class="section-2 mt-5">
 
 <div class="container">
   <div class="row">
@@ -94,7 +94,7 @@
  
 
   <div class="row mt-5">
-    <div class="col-sm d-flex justify-content-center">
+    <div class="card-group col-sm d-flex justify-content-center">
       <div class="card border-0" style="width: 18rem;">
   <img src="ui-kit/card-1.png" class="card-img-top shadow" alt="...">
   <div class="card-body px-0 mt-5">
@@ -105,7 +105,7 @@
 </div>
     </div>
 
-    <div class="col-sm d-flex justify-content-center">
+    <div class="card-group col-sm d-flex justify-content-center">
       <div class="card border-0" style="width: 18rem;">
   <img src="ui-kit/card-2.png" class="card-img-top shadow" alt="...">
   <div class="card-body px-0 mt-5">
@@ -116,7 +116,7 @@
 </div>
     </div>
     
-    <div class="col-sm d-flex justify-content-center">
+    <div class="card-group col-sm d-flex justify-content-center">
       <div class="card border-0" style="width: 18rem;">
   <img src="ui-kit/card-3.png" class="card-img-top shadow" alt="...">
   <div class="card-body px-0 mt-5">
@@ -139,51 +139,54 @@
 
 <!-- section 3 -->
 <section class="section-3">
-  <div class="container">
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#7854F7" fill-opacity="1" d="M0,128L120,144C240,160,480,192,720,192C960,192,1200,160,1320,144L1440,128L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z"></path></svg>
+ 
 
-    <div class="row my-5">
+  <div class="wave">
+    <div class="container">
 
-      <div class="col-md-2 col-sm-0"></div>
+      <div class="row">
+
+        <div class="col-md-2 col-sm-0"></div>
       
-      <div class="col-md-4 col-sm-2 d-flex justify-content-center px-0">
-        <img src="ui-kit/card-4.png" class="img-section-3 shadow" alt="" srcset="">
+        <div class="col-md-4 col-sm-12 d-flex justify-content-center px-0">
+          <img src="ui-kit/card-4.png" id="img-section-3" class="shadow" alt="" srcset="">
+        </div>
+      
+        <div class="card-body col-md-4 col-sm-12 px-1 my-5">
+          <h3 class="title-section-3">Develop Without Limits</h3>
+          <p class="fw-light fw-normal text-section-3">WooCommerce is developer friendly, too. Built with a REST API, WooCommerce is scalable and can integrate with virtually any service. Design a complex store from scratch, extend a store for a client, or simply add a single product to a WordPress site—your store, your way.
+          </p>
+          <button type="button" class="btn s3-btn btn-primary rounded-pill fw-bold border-0">Read the  Documentation</button>
+        </div>
+
+        <div class="col-md-2 col-sm-0"></div>
       </div>
-      
-      <div class="card-body col-md-4 col-sm-2 px-1 my-5">
-        <h3 class="title-section-3">Develop Without Limits</h3>
-        <p class="fw-light fw-normal text-section-3">WooCommerce is developer friendly, too. Built with a REST API, WooCommerce is scalable and can integrate with virtually any service. Design a complex store from scratch, extend a store for a client, or simply add a single product to a WordPress site—your store, your way.
-        </p>
-        <button type="button" class="btn s3-btn btn-primary rounded-pill fw-bold border-0">Read the  Documentation</button>
-      </div>
-
-      <div class="col-md-2 col-sm-0"></div>
     
-    </div>
 
-
-    
-    <div class="row my-5">
+      <div class="row">
 
       <div class="col-md-2 col-sm-0"></div>
       
-      <div class="card-body col-md-4 col-sm-2 px-1 my-5">
+      <div class="card-body col-md-4 col-sm-6 px-1 my-5">
         <h3 class="title-section-3">Know Your Global Community</h3>
         <p class="fw-light fw-normal text-section-3">WooCommerce is one of the fastest-growing eCommerce communities. We’re proud that the helpfulness of the community and a wealth of online resources are frequently cited as reasons our users love it. There are 80+ meetups worldwide!
         </p>
-        <button type="button" class="btn s3-btn btn-primary rounded-pill fw-bold border-0">Read the  Documentation</button>
+        <button type="button" class="btn s3-btn btn-primary rounded-pill fw-bold border-0">Read the Documentation</button>
       </div>
 
-      <div class="col-md-4 col-sm-2 d-flex justify-content-center px-0">
-        <img src="ui-kit/card-5.png" class="img-section-3 shadow" alt="" srcset="">
+      <div class="col-md-4 col-sm-6 d-flex justify-content-center px-0">
+        <img src="ui-kit/card-5.png" id="img-section-4" class="shadow" alt="" srcset="">
       </div>
 
       <div class="col-md-2 col-sm-0"></div>
     
     </div>
-
-
-
+-->
   </div>
+  </div>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#7854F7" fill-opacity="1" d="M0,224L120,202.7C240,181,480,139,720,138.7C960,139,1200,181,1320,202.7L1440,224L1440,0L1320,0C1200,0,960,0,720,0C480,0,240,0,120,0L0,0Z"></path></svg>
 </section>
 
 <!-- fin section 3 -->

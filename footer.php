@@ -99,7 +99,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light py-3">
   <div class="container-md">
 
-      <div class="col-md-3 d-flex justify-content-start">
+      <div class="col-md-3 d-flex justify-content-start mt-3">
         <img class="px-2" src="ui-kit/tt.png" alt="" srcset="">
         <img class="px-2" src="ui-kit/fb.png" alt="" srcset="">
         <img class="px-2" src="ui-kit/rss.png" alt="" srcset="">
@@ -107,14 +107,14 @@
         </div>
 
       <div class="col-md-6 d-flex justify-content-center">
-          <p class="mb-0">COPYRIGHT WOOCOMMERCE 2020 - 
-              <a class="lien-footer text-decoration-underline" href="">TERMS & CONDITIONS </a>
-              <a class="lien-footer text-decoration-underline" href="">PRIVACY POLICY</a>     
+          <p class="mb-0 p-4">COPYRIGHT WOOCOMMERCE 2020 - 
+              <a class="lien-footer text-decoration-underline p-4" href="">TERMS & CONDITIONS </a>
+              <a class="lien-footer text-decoration-underline p-4" href="">PRIVACY POLICY</a>     
         </p>
       </div>
 
       <div class="col-md-3 d-flex justify-content-end">
-        <img class="" src="ui-kit/auto.png" alt="" srcset="">
+        <img class="mb-3" src="ui-kit/auto.png" alt="" srcset="">
       </div>
    
   

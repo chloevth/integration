@@ -67,13 +67,12 @@ a{
 }
 
 /* section 3 */
-
-.section-3{
-    background:  url(ui-kit/bg.png) no-repeat;
-    background-size: 100% 100%;
+.wave{
+    background-color: #7854F7;
 }
-.img-section-3{
-    width: 60%;
+
+#img-section-3, #img-section-4{
+    height: 24vw;
 }
 .title-section-3{
     color: white;
@@ -94,9 +93,6 @@ a{
     background: linear-gradient( #ecf0fd00, #ecf0fd79, #ECF0FD,#ecf0fd79, #ecf0fd00);
 }
 
-.carousel-control-next-icon{
-   color: brown;
-}
 
 /* section 6 */
 
