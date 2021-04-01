@@ -53,7 +53,7 @@
   <div class="row">
 
 <!-- col 1 -->
-    <div class="col-sm">
+    <div class="col-md col-sm mt-5 mb-3">
       <div class="card mx-auto bg-transparent border-0" >
         <div class="card-body">
           <h1 class="card-title fw-bold">Building exactly the eCommerce website you want.</h1>
@@ -67,7 +67,7 @@
 
 
 <!-- col 2 -->
-    <div class="col-sm">
+    <div class="col-md col-sm mt-3 ">
       <img src="ui-kit/product.png" class="img-fluid mx-right" alt="...">
     </div>
      
@@ -82,12 +82,18 @@
 
 <!-- début section 2 -->
 
-<section class="section-2 ">
+<section class="section-2 my-5">
 
 <div class="container">
-  <h2 class="d-flex justify-content-center">Your eCommerce made simple</h2>
   <div class="row">
+    <div class="col-md-4 col-sm-0"></div>
+    <h2 class="col-md-4 col-sm-12 d-flex justify-content-center text-center">Your eCommerce made simple</h2>
+    <div class="col-md-4 col-sm-0"></div>
+  </div>
 
+ 
+
+  <div class="row mt-5">
     <div class="col-sm d-flex justify-content-center">
       <div class="card border-0" style="width: 18rem;">
   <img src="ui-kit/card-1.png" class="card-img-top shadow" alt="...">
@@ -168,85 +174,13 @@
       </div>
 
       <div class="col-md-4 col-sm-2 d-flex justify-content-center px-0">
-        <img src="ui-kit/card-4.png" class="img-section-3 shadow" alt="" srcset="">
+        <img src="ui-kit/card-5.png" class="img-section-3 shadow" alt="" srcset="">
       </div>
 
       <div class="col-md-2 col-sm-0"></div>
     
     </div>
 
-
-
-<!-- 
-    <div class="row">
-
-      <div class="col-12 d-flex justify-content-center align-items-center">
-       
-       <div class="card mb-5 mt-5 bg-transparent border-0" style="max-width: 540px;">
-        
-        <div class="row g-0">
-
-          <div class="col-md-4">
-            <img src="ui-kit/card-4.png" class="img-section-3" alt="...">
-          </div>
-
-          <div class="col-md-8">
-
-           <div class="card-body">
-             <h5 class="card-title text-white">Develop Without Limits</h5>
-              <p class="card-text text-white">WooCommerce is developer friendly, too. Built with a REST API, WooCommerce is scalable and can integrate with virtually any service. Design a complex store from scratch, extend a store for a client, or simply add a single product to a WordPress site—your store, your way.</p>
-          
-              <button type="button" class="btn s3-btn btn-primary rounded-pill fw-bold border-0">Read the  Documentation</button>
-            </div>
-
-          </div>
-
-        </div>
-
-      </div>
-
-      
-    </div>
-
-
-
-
-    <div class="row d-flex">
-
-      <div class="col-12 d-flex justify-content-center align-items-center">
-
-        <div class="card mb-5 mt-5 bg-transparent border-0" style="max-width: 540px;">
-
-          <div class="row g-0">
-
-
-            <div class="col-md-8">
-
-              <div class="card-body ">
-                <h5 class="card-title text-white">Know our Global Community</h5>
-                <p class="card-text text-white">WooCommerce is one of the fastest-growing eCommerce communities. We’re proud that the helpfulness of the community and a wealth of online resources are frequently cited as reasons our users love it. There are 80+ meetups worldwide!</p>
-                <p class="card-text"><small class="text-white">Last updated 3 mins ago</small></p>
-                
-              <button type="button" class="btn s3-btn btn-primary rounded-pill fw-bold border-0">Read the  Documentation</button>
-              </div>
-
-            </div>
-
-            <div class="col-md-4">
-              <img src="ui-kit/card-5.png" class="img-section-3" alt="...">
-            </div>
-
-            
-
-          </div>
-
-        </div>
-
-      </div>
-
-    </div>
-
--->
 
 
   </div>
@@ -256,7 +190,7 @@
 
 
 
-<section class="section-4">
+<section class="section-4 py-5">
  <div class="container">
 
 
@@ -321,7 +255,7 @@
 
 
 
-<section class="section-5 mt-5">
+<section class="section-5 mt-3">
   <div class="container">
     <div class="row">
       <h2 class="text-center">Supported by real people</h2>
@@ -370,7 +304,7 @@
        
         <div class="card-body px-0">
         
-          <h6 class="card-title text-center text-white fw-normal"><img src="ui-kit/bouee.png" class="check px-2" alt="" srcset=""><strong>Support </strong>teams across the world</h6>
+          <h6 class="card-title text-center text-white fw-normal"><img src="ui-kit/bouee.png" class="px-2" alt="" srcset=""><strong>Support </strong>teams across the world</h6>
          
         </div>
       </div>
@@ -380,9 +314,9 @@
     <div class="col">
       <div class="card border-0 bg-transparent">
        
-        <div class="card-body pt-0 pb-5">
+        <div class="card-body px-0">
         
-          <h6 class="card-title text-center text-white fw-normal"><img src="ui-kit/cadenas.png" class="check px-2" alt="" srcset=""><strong>Safe & Secure</strong> online payment</h6>
+          <h6 class="card-title text-center text-white fw-normal"><img src="ui-kit/cadenas.png" class="px-2" alt="" srcset=""><strong>Safe & Secure</strong> online payment</h6>
           
         </div>
       </div>
