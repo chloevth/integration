@@ -1,4 +1,4 @@
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
+
 
 
 <footer >
@@ -100,10 +100,10 @@
   <div class="container-md">
 
       <div class="col-md-3 d-flex justify-content-start mt-3">
-        <img class="px-2" src="ui-kit/tt.png" alt="" srcset="">
-        <img class="px-2" src="ui-kit/fb.png" alt="" srcset="">
-        <img class="px-2" src="ui-kit/rss.png" alt="" srcset="">
-        <img class="px-2" src="ui-kit/insta.png" alt="" srcset="">
+        <img class="px-2" src="/wordpress/sandbox/wp-content/themes/woo-commerce/ui-kit/tt.png" alt="" srcset="">
+        <img class="px-2" src="/wordpress/sandbox/wp-content/themes/woo-commerce/ui-kit/fb.png" alt="" srcset="">
+        <img class="px-2" src="/wordpress/sandbox/wp-content/themes/woo-commerce/ui-kit/rss.png" alt="" srcset="">
+        <img class="px-2" src="/wordpress/sandbox/wp-content/themes/woo-commerce/ui-kit/insta.png" alt="" srcset="">
         </div>
 
       <div class="col-md-6 d-flex justify-content-center">
@@ -114,7 +114,7 @@
       </div>
 
       <div class="col-md-3 d-flex justify-content-end">
-        <img class="mb-3" src="ui-kit/auto.png" alt="" srcset="">
+        <img class="mb-3" src="/wordpress/sandbox/wp-content/themes/woo-commerce/ui-kit/auto.png" alt="" srcset="">
       </div>
    
   
@@ -122,6 +122,9 @@
 </nav>
 
 </footer>
+<?php wp_footer();?>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
 
 </body>
 </html>
+

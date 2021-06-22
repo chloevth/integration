@@ -1,3 +1,11 @@
+/*
+Theme Name: Woo Commerce
+Author: Chloe Vauthier
+Author URI: https://chloev.promo-68.codeur.online/
+Description: Un thème développé dans le cadre de l'ACS avec Bootstrap.
+Version: 0.1
+*/
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
 
 h1,h2,h3,h4,h5,h6{
@@ -139,4 +147,9 @@ footer{
 
 .lien-footer{
     color: #94A2B3;
+}
+
+.custom-logo{
+    width: 158px!important;
+    height: 32px!important;
 }
