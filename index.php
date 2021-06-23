@@ -70,7 +70,7 @@
 
 <!-- col 2 -->
     <div class="col-md col-sm mt-3 ">
-      <img src="/wordpress/sandbox/wp-content/themes/woo-commerce/ui-kit/product.png" class="img-fluid mx-right" alt="...">
+      <img src="<?php echo get_template_directory_uri(); ?>/ui-kit/product.png" class="img-fluid mx-right" alt="...">
     </div>
      
 
@@ -98,7 +98,7 @@
   <div class="row mt-5">
     <div class="card-group col-sm d-flex justify-content-center">
       <div class="card border-0" style="width: 18rem;">
-  <img src="/wordpress/sandbox/wp-content/themes/woo-commerce/ui-kit/card-1.png" class="card-img-top shadow" alt="...">
+  <img src="<?php echo get_template_directory_uri(); ?>/ui-kit/card-1.png" class="card-img-top shadow" alt="...">
   <div class="card-body px-0 mt-5">
     <h5 class="card-title fw-bold">All you need to start</h5>
     <p class="card-text">Add WooCommerce plugin to any WordPress site and set up a new store in minutes.</p>
@@ -109,7 +109,7 @@
 
     <div class="card-group col-sm d-flex justify-content-center">
       <div class="card border-0" style="width: 18rem;">
-  <img src="/wordpress/sandbox/wp-content/themes/woo-commerce/ui-kit/card-2.png" class="card-img-top shadow" alt="...">
+  <img src="<?php echo get_template_directory_uri(); ?>/ui-kit/card-2.png" class="card-img-top shadow" alt="...">
   <div class="card-body px-0 mt-5">
     <h5 class="card-title fw-bold">Customize and extend</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -120,7 +120,7 @@
     
     <div class="card-group col-sm d-flex justify-content-center">
       <div class="card border-0" style="width: 18rem;">
-  <img src="/wordpress/sandbox/wp-content/themes/woo-commerce/ui-kit/card-3.png" class="card-img-top shadow" alt="...">
+  <img src="<?php echo get_template_directory_uri(); ?>/ui-kit/card-3.png" class="card-img-top shadow" alt="...">
   <div class="card-body px-0 mt-5">
     <h5 class="card-title fw-bold">Active Community</h5>
     <p class="card-text">WooCommerce is one of the fastest-growing eCommerce communities.</p>
@@ -153,7 +153,7 @@
         <div class="col-md-2 col-sm-0"></div>
       
         <div class="col-md-4 col-sm-12 d-flex justify-content-center px-0">
-          <img src="/wordpress/sandbox/wp-content/themes/woo-commerce/ui-kit/card-4.png" id="img-section-3" class="shadow" alt="" srcset="">
+          <img src="<?php echo get_template_directory_uri(); ?>/ui-kit/card-4.png" id="img-section-3" class="shadow" alt="" srcset="">
         </div>
       
         <div class="card-body col-md-4 col-sm-12 px-1 my-5">
@@ -179,7 +179,7 @@
       </div>
 
       <div class="col-md-4 col-sm-6 d-flex justify-content-center px-0">
-        <img src="/wordpress/sandbox/wp-content/themes/woo-commerce/ui-kit/card-5.png" id="img-section-4" class="shadow" alt="" srcset="">
+        <img src="<?php echo get_template_directory_uri(); ?>/ui-kit/card-5.png" id="img-section-4" class="shadow" alt="" srcset="">
       </div>
 
       <div class="col-md-2 col-sm-0"></div>
@@ -220,13 +220,13 @@
        <div id="carouselExampleControls" class="carousel slide shadow" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/wordpress/sandbox/wp-content/themes/woo-commerce/ui-kit/caroussel.png" class="d-block w-100" alt="...">
+      <img src="<?php echo get_template_directory_uri(); ?>/ui-kit/caroussel.png" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="/wordpress/sandbox/wp-content/themes/woo-commerce/ui-kit/caroussel.png" class="d-block w-100" alt="...">
+      <img src="<?php echo get_template_directory_uri(); ?>/ui-kit/caroussel.png" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="/wordpress/sandbox/wp-content/themes/woo-commerce/ui-kit/caroussel.png" class="d-block w-100" alt="...">
+      <img src="<?php echo get_template_directory_uri(); ?>/ui-kit/caroussel.png" class="d-block w-100" alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -265,7 +265,7 @@
     <div class="row">
       <h2 class="text-center">Supported by real people</h2>
       <p class="text-center">Our team of Happiness Engineers works remotely from 58 countries providing customer support across multiple time zones.</p>
-        <img src="/wordpress/sandbox/wp-content/themes/woo-commerce/ui-kit/team.png" alt="" srcset="">
+        <img src="<?php echo get_template_directory_uri(); ?>/ui-kit/team.png" alt="" srcset="">
       
     </div>
 
@@ -298,7 +298,7 @@
        
         <div class="card-body px-0">
        
-          <h6 class="card-title text-center text-white fw-normal"> <img src="/wordpress/sandbox/wp-content/themes/woo-commerce/ui-kit/check.png" class="check px-2" alt="" srcset="">30 day <strong>money back guarantee</strong></h6>
+          <h6 class="card-title text-center text-white fw-normal"> <img src="<?php echo get_template_directory_uri(); ?>/ui-kit/check.png" class="check px-2" alt="" srcset="">30 day <strong>money back guarantee</strong></h6>
          
         </div>
       </div>
@@ -309,7 +309,7 @@
        
         <div class="card-body px-0">
         
-          <h6 class="card-title text-center text-white fw-normal"><img src="/wordpress/sandbox/wp-content/themes/woo-commerce/ui-kit/bouee.png" class="px-2" alt="" srcset=""><strong>Support </strong>teams across the world</h6>
+          <h6 class="card-title text-center text-white fw-normal"><img src="<?php echo get_template_directory_uri(); ?>/ui-kit/bouee.png" class="px-2" alt="" srcset=""><strong>Support </strong>teams across the world</h6>
          
         </div>
       </div>
@@ -321,7 +321,7 @@
        
         <div class="card-body px-0">
         
-          <h6 class="card-title text-center text-white fw-normal"><img src="/wordpress/sandbox/wp-content/themes/woo-commerce/ui-kit/cadenas.png" class="px-2" alt="" srcset=""><strong>Safe & Secure</strong> online payment</h6>
+          <h6 class="card-title text-center text-white fw-normal"><img src="<?php echo get_template_directory_uri(); ?>/ui-kit/cadenas.png" class="px-2" alt="" srcset=""><strong>Safe & Secure</strong> online payment</h6>
           
         </div>
       </div>
@@ -335,7 +335,7 @@
     <div class="row">
       <div class="col-md-4"></div>
       <div class="col-md-4 d-flex justify-content-center pt-5">
-      <img src="/wordpress/sandbox/wp-content/themes/woo-commerce/ui-kit/logo-blanc.png" alt="" srcset="">
+      <img src="<?php echo get_template_directory_uri(); ?>/ui-kit/logo-blanc.png" alt="" srcset="">
       </div>
       <div class="col-md-4"></div>
     </div>
